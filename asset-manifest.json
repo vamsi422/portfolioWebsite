@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92701e93.css",
+    "main.js": "/static/js/main.3ec49831.js",
+    "static/media/me-2.jpg": "/static/media/me-2.26289b1beda18cf27707.jpg",
+    "static/media/proj-1.png": "/static/media/proj-1.8f25da3c198dd212e750.png",
+    "static/media/honeycomb-g01a0a9876_640.png": "/static/media/honeycomb-g01a0a9876_640.3c91168edfda36b639ec.png",
+    "static/media/diamond-g591ae8fd0_640.png": "/static/media/diamond-g591ae8fd0_640.9c72c7d7bb34c2d24e2c.png",
+    "index.html": "/index.html",
+    "main.92701e93.css.map": "/static/css/main.92701e93.css.map",
+    "main.3ec49831.js.map": "/static/js/main.3ec49831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92701e93.css",
+    "static/js/main.3ec49831.js"
+  ]
+}
